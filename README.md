@@ -13,7 +13,20 @@ Basic App to practice basics concepts and practices of SwiftUI Development
 - [x] How to create a data model and fetch data using Swift language
 - [x] Learn how to use the new Link View in SwiftUI 2.0
 - [x] Learn how to use the new Goup Box View in SwiftUI 2.0 Learn how to use the new 
-- [x] Disclosure View in SwiftUI 2.0 How to display views dynamically in a List View with a loop
+- [x] Disclosure View in SwiftUI 2.0 How to display views dynamically in a List View with a loop 
+- [x] How to set up a new iOS project with the new SwiftUI App Life Cycle 
+- [x] How to develop a unique Onboarding screen 
+- [x] How to use the new AppStorage in SwiftUI 
+- [x] How to save and load data using UserDefaults 
+- [x] How to create custom Views with SwiftUI 
+- [x] How to retrieve local data using Structs in Swift programming language 
+- [x] How to display multiple Views automatically with ForEach loop 
+- [x] How to use scroll view, horizontal view, and vertical view containers 
+- [x] How to create an outstanding Settings view 
+- [x] How to add Icons to the App 
+- [x] How to use the improved Canvas and Previews in Xcode 
+- [x] How to test the iOS app in Xcode Simulator 
+- [x] Get familiar with the new Xcode
 
 UI & UX
 - [x] Outstanding graphics
